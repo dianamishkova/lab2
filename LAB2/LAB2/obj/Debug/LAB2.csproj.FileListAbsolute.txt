@@ -1,0 +1,16 @@
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\RasterEdge.Imaging.Basic.Codec.dll
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\RasterEdge.Imaging.Basic.dll
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\RasterEdge.XDoc.Office.Inner.Office03.dll
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\bin\Debug\RasterEdge.XDoc.PowerPoint.dll
+C:\Users\diana_q1chryi\source\repos\LAB2\LAB2\obj\Debug\LAB2.csproj.CopyComplete
